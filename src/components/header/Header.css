@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  background-color: #353535;
+  color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  min-height: 60px;
+  align-items: center;
+}
+.header .side-bar {
+  display: flex;
+}
+.header .side-bar > * {
+  margin-left: 2rem;
+}
+.header .side-bar > *:hover,
+.header .side-bar > * :active {
+  transform: scale(1.1);
+}/*# sourceMappingURL=Header.css.map */

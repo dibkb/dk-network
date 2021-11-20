@@ -1,0 +1,15 @@
+.signup-container {
+  width: 450px;
+  margin: 0 auto;
+}
+.signup-container .heading {
+  margin: 2rem 0;
+  font-size: 45px;
+  font-weight: 500;
+}
+.signup-container .signup-form {
+  margin-top: 2rem;
+}
+.signup-container .signup-form > * {
+  margin: 1rem 0;
+}/*# sourceMappingURL=SignUp.css.map */
